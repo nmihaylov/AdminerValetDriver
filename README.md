@@ -1,5 +1,5 @@
 # AdminerValetDriver
-Custom Laravel Valet driver for Adminer
+Custom Laravel Valet driver for Adminer / adminer.php (you can download it from https://www.adminer.org/)
 
 This file should be palced in /Users/user/.config/valet/Drivers/AdminerValetDriver.php
 
